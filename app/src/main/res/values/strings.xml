@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CBC RSS Top Stories</string>
+    <string name="feed_row_title">Title</string>
+    <string name="feed_row_pubDate">Publication date</string>
+    <string name="feed_row_author">Author</string>
+</resources>
